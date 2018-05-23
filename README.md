@@ -1,2 +1,2 @@
-# multicycle-mips-cpu-
+# multicycle-mips-cpu
 a simple implementation with verilog
