@@ -8,4 +8,6 @@ a simple implementation with verilog
 数据通路
 ![Image text](https://github.com/JK1Zhang/multicycle-mips-cpu/blob/master/materials/j%E6%8C%87%E4%BB%A4%E6%95%B0%E6%8D%AE%E9%80%9A%E8%B7%AF.jpg)
 上面不含有j指令的通路，增加后为
-![Alt text]（/multicycle-mips-cpu/blob/master/multicycle-mips-cpu/blob/master/materials/j指令数据通路.jpg）
+![Alt text]（https://github.com/JK1Zhang/multicycle-mips-cpu/blob/master/materials/j%E6%8C%87%E4%BB%A4%E6%95%B0%E6%8D%AE%E9%80%9A%E8%B7%AF.jpg）
+接着是状态机
+![Alt text]（https://github.com/JK1Zhang/multicycle-mips-cpu/blob/master/materials/%E7%8A%B6%E6%80%81%E6%9C%BA.jpg）
